@@ -1,6 +1,6 @@
 # 可安装系统
 
-- macOS Ventura 13.x(正式版)
+- macOS Ventura 13.x
 - macOS Ventura 14.2
 
 # 硬件
@@ -21,6 +21,11 @@
 # 需要修改项
 
 - 定制自己的USB
-  - 
+  - [黑苹果安装教程-USB定制 - 黑苹果社区 (osx.cx)](https://osx.cx/hackintosh-usb-dingzhi.html)
 - 修改显卡的地址
-  - [RX6950XT or RX6650XT  is it  support MacOS?  极速硬核破解RX6950XT+RX6650XT (hackintosh)最新显卡驱动教程 (youtube.com)](https://www.youtube.com/watch?v=hb-aJyo_GPw)
+  - [RX6650XT/RX6950XT 安装黑苹果驱动教程 - 黑苹果社区 (osx.cx)](https://osx.cx/rx6950xt-rx6650xt-install-hackintosh.html)
+
+# 存在问题
+
+- 蓝牙无法使用
+- macos14下WiFi无法使用，macos13正常
