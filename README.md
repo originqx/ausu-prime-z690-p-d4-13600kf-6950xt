@@ -25,7 +25,19 @@
 - 修改显卡的地址
   - [RX6650XT/RX6950XT 安装黑苹果驱动教程 - 黑苹果社区 (osx.cx)](https://osx.cx/rx6950xt-rx6650xt-install-hackintosh.html)
 
+# 跑分截图
+## 系统
+![Alt text](image.png)
+
+## geekbench6
+### CPU
+![Alt text](image-1.png)
+### GPU
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+
 # 存在问题
 
 - 蓝牙无法使用
 - macos14下WiFi无法使用，macos13正常
+
