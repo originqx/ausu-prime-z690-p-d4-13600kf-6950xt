@@ -12,6 +12,7 @@
 - 显卡: AMD Radeon RX 6950 XT (Navi 21)
 - 声卡: Realtek® ALC897
 - 网卡: Realtek RTL8125/8111 PCI-E Gigabit Ethernet Adapter
+- 网卡WIFI+蓝牙: intel AX200 
 - BIOS版本：2212
 - SMBIOS；MacPro 7，1
 - OC版本：OPENCORE0.97
